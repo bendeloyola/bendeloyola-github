@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @bendeloyola
-- 👀 I’m interested in Mobile and Web Development
-- 🌱 I’m currently learning Ruby on rails.
+- 🌱 I’m currently studying Software Engineer at Avion School
 
