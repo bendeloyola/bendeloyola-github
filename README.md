@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @bendeloyola
-- 🌱 I’m currently studying Software Engineer at Avion School
+
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendeloyola)](https://github.com/bendeloyola/github-readme-stats)
 
